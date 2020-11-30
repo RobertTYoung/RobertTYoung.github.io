@@ -27,7 +27,7 @@ h4 {
 a:link{
     text-decoration: none;
     background-color: aqua;
-    padding: 20px;
+    padding: 10px;
     color:Black;
     text-align:center;
    
@@ -36,4 +36,8 @@ a:link{
 a {
    float:left; 
    margin-top: 20px;
+}
+
+ul {
+    margin-left :3%;
 }
